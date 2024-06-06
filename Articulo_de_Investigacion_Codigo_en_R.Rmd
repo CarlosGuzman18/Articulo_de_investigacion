@@ -1,0 +1,429 @@
+---
+title: "Articulo De Investigacion"
+author: "Carlos Enrique Guzman Delgado"
+date: "6 de junio del 2024"
+output:
+  pdf_document: default
+  html_document: default
+---
+### EFECTO DE TRES NIVELES DE MATERIA ORGÁNICA EN EL RENDIMIENTO DE TRES VARIEDADES DE QUINUA (Chenopodium quinoa. Will) EN TIAHUANACU.
+
+##### 1. Introducción.
+La Quinua (Chenopodium quinoa Willd.), fue descrita por primera vez en el año 1778 por Willdenow y tendría como centro de origen los Andes de Bolivia y Perú, donde el área de dispersión geográfica es bastante amplia y es allí donde se encuentra la mayor diversidad de ecotipos cultivadas y silvestres (FAO, 2011). Por su parte Mujica et al. (2004) mencionan que la quinua, en el pasado ha tenido amplia distribución geográfica, que abarcó en Sudamérica, desde Colombia hasta Tucumán en Argentina y las Islas de Chiloé en Chile. También fue cultivada por las culturas precolombinas, Aztecas y Mayas en los valles de México, denominándola Huauzontle. La quinua en la actualidad tiene distribución mundial. Rojas y Pinto,(2003), Indican que, el cultivo de Quinua (Chenopodium quinoa Willd.) ha sido agrupada en cinco grupos mayores, cuatro de ellos se encuentran en Bolivia (quinuas de: valles Interandinos, Altiplano, Salares y Yungas).
+Mujica et al. (2004), mencionan que la quinua prefiere suelo franco, con buen drenaje y alto contenido de materia orgánica, y un contenido medio de nutrientes, ya que la planta es exigente en nitrógeno y calcio, moderadamente en fósforo y poco de potasio. También por su amplia adaptabilidad a los suelos franco arenosos, arenosos o franco arcilloso, siempre que se tenga la disponibilidad de nutrientes y no exista la posibilidad de encharcamiento del agua, es muy susceptible al exceso de humedad sobre todo en los primeros estados fenológicos.
+
+Si bien la producción de quinua en el año 2017 ha tenido un incremento del 10% respecto al año 2016. Considerando la expansión de la superficie cultivada, se habilitaron  muchas hectáreas; por ejemplo en las gestiones de 2006 -2013 la cantidad de superficie de cultivos de quinua se triplicó,  y que en el 2017 la superficie cultivada alcanzó los 160 mil hectáreas,  con rendimientos de 0,6 a 0,7 toneladas por hectárea (OPINION 2017), por debajo del Perú (1,2 t/ha) (CORREO 2017). Por lo tanto, paralelamente a la expansión de la frontera agrícola se debe incrementar la productividad, no es suficiente con habilitar más superficie destinada a la producción de quinua en Bolivia para cubrir la demanda existente.
+Por tanto, se deberán buscar alternativas para incrementar el rendimiento de quinua optimizando los factores más importantes que afectan al rendimiento. En la localidad de Tiahuanacu existen algunas variedades de quinua que son locales y no producen alto rendimiento. Por otro lado, los suelos de la región carecen de materia orgánica que es necesaria para aumentar el rendimiento de quinua y mejorar las condiciones del suelo. Por esta razón, se considera que las variedades de quinua y la materia orgánica son dos factores importantes para incrementar el rendimiento de la especie, bajo las condiciones ambientales de la región de Tiahuanacu. 
+
+##### 2. Objetivo general
+
+El objetivo del presente trabajo de investigación fue “evaluar el efecto de tres niveles de materia orgánico en el rendimiento de tres variedades de quinua (Chenopodium quinoa Will), utilizando un arreglo factorial, bajo las condiciones agroecológicas de Tiahuanacu”.
+
+##### 3. Motivación 
+
+La motivación para realizar el trabajo de investigación sobre el efecto de la materia orgánica en variedades de quinua en Tiahuancu, La Paz, surge de la necesidad de abordar los desafíos que el cambio climático y la insustentabilidad de la producción plantean para este cultivo crucial en la región.
+La quinua es fundamental tanto para la economía como para la seguridad alimentaria de las comunidades del altiplano boliviano, pero enfrenta problemas como la degradación del suelo y la variabilidad climática que amenazan su rendimiento y calidad. Por tanto, la incorporación de materia orgánica puede mejorar las características del suelo y el rendimiento de grano de las variedades de quinua y de esta manera se pueden desarrollar estrategias agrícolas más sostenibles y eficaces, beneficiando a los agricultores locales y contribuyendo a la conservación de este valioso recurso agrícola.
+Por otro lado, es importante conocer métodos estadísticos para procesar datos provenientes de dos factores, como en este caso, la materia orgánica y las variedades de quinua que serán procesadas con un arreglo bifactorial en diseño bloques completos al azar.
+ 
+##### 4. Revision de literatura
+
+
+###### 4.1.	Origen de la Quinua
+La Quinua (Chenopodium quinoa Willd.), ha sido descrita por primera vez en el año 1778 por Willdenow y según Buskasou tendría como centro de origen los Andes de Bolivia y Perú, donde el área de dispersión geográfica es bastante amplia y es allí donde se encuentra la mayor diversidad de ecotipos cultivadas y silvestres (FAO, 2011). Por su parte Mujica et al. (2004) mencionan que la quinua, en el pasado ha tenido amplia distribución geográfica, que abarcó en Sudamérica, desde Colombia hasta Tucumán en Argentina y las Islas de Chiloé en Chile. También fue cultivada por las culturas precolombinas, Aztecas y Mayas en los valles de México, denominándola Huauzontle. La quinua en la actualidad tiene distribución mundial. Rojas y Pinto,(2003), Indican que, el cultivo de Quinua (Chenopodium quinoa Willd.) ha sido agrupada en cinco grupos mayores, cuatro de ellos se encuentran en Bolivia (quinuas de: valles Interandinos, Altiplano, Salares y Yungas) a través de la colección boliviana de germoplasma de quinua se determinó siete sub-centros de diversidad en Bolivia.
+
+###### 4.2.	Valor nutricional de la quinua
+IICA, (2015), menciona que, según la FAO así como la OMS, han calificado a la quinua como un alimento único, por su altísimo valor nutricional que permite sustituir las proteínas de origen animal, además por su contenido balanceado en proteínas y nutrientes más cercano al ideal para el ser humano que cualquier otro alimento.
+Según las investigaciones realizadas por Jaya, (2010) en las accesiones del germoplasma de quinua el contenido de proteína fluctuó de 10,21 a 18,39%. Si bien la cantidad de proteína es un aspecto básico, la calidad es lo propio y depende del contenido de aminoácidos esenciales. El contenido de grasa en el germoplasma fluctuó de 2,05 a 10,88% con un promedio de 6,39%. El contenido de grasa de la quinua tiene un alto valor debido a su alto porcentaje de ácidos grasos no-saturados. Se espera que estos valores de quinua sean útiles para la obtención de aceites vegetales finos, para el uso culinario y para el cosmético.
+
+
+```{r echo=FALSE}
+library(readxl)
+library(datapasta)
+dataRojas <- data.frame(
+       stringsAsFactors = FALSE,
+            check.names = FALSE,
+                 `VARIEDADES/LINEAS` = c("Real Blanca","Kellu","Pandela",
+                                         "Mañiqueña","Kariquemeña","Qanchis",
+                                         "Kosuña","Intinaira","Chucapaca",
+                                         "Jacha Grano","Blanquita","Aynoka",
+                                         "Kurmi","Linea K","L-118 Cf"),
+                      `Proteina(%)` = c(1449,1278,1285,1236,1319,1415,
+                                         1485,1437,1378,1421,1377,1365,
+                                         1611,182,1685),
+                         `Grasa(%)` = c(522,798,475,499,615,921,585,
+                                         452,425,485,405,685,477,65,625),
+                         `Fibra(%)` = c(395,428,469,515,628,487,445,
+                                         311,525,378,424,425,425,305,61),
+                            `HC(%)` = c(6455,6287,6562,6627,6457,6028,
+                                         6207,6616,6423,64.73,6498,6336,
+                                         6264,6005,6145),
+                       `Almidon(%)` = c(6029,5265,6018,6014,5587,5858,
+                                         4928,5521,4865,5826,3924,5928,
+                                         6149,6141,4215),
+                       `Amilosa(%)` = c(122,138,185,112,218,189,159,
+                                         158,191,105,166,151,159,215,165),
+                  `Amilopectina(%)` = c(878,862,815,888,782,811,841,
+                                         842,809,895,834,849,841,785,835),
+               `Granulo.Almidon(µ)` = c(52,21,45,22,31,4,48,25,21,
+                                         36,11,28,21,15,28),
+               `Hierro(mg*100g¯¹)` = c(21,28,72,24,18,27,35,25,11,
+                                         21,18,45,12,48,27)
+             )
+dataRojas
+```
+
+                                                         Fuente: (Rojas et al. 2008)
+
+###### 4.3.	Requerimientos nutricionales de la Quinua
+Cuando se siembra después de una gramínea es necesario no sólo utilizar materia orgánica en una proporción de tres toneladas por hectárea, sino fertilización equivalente en promedio a 174 kg/ha de urea del 46 % y 88 kg/ha de superfosfato de calcio triple del 46 %, y nada de potasio por la gran disponibilidad en los suelos de los Andes y en general de Sudamérica debido a que en el suelo existen arcillas que retienen en grandes cantidades al potasio (Mujica et al., 2004).
+Estudios realizados por Mateu, citado por UNSCH, (2012), determinó un equilibrio fisiológico de 50-16-34 (N – P2O5-K2O) para el cultivo de quinua. Además, el N es asimilado bajo forma de nitrato (NO3-) o de amoniaco (NH4+) para el crecimiento, este suple de 1 a 4% de extracto seco de la planta; asimismo, está en todos los procesos vitales. El P suple de 0.1 a 0.4% de extracto seco de la planta; el K suple de 1 a 4% de extracto seco de la planta y es absorbida como ion K+, además mejora el régimen hídrico y aumenta su tolerancia a la sequía, heladas y salinidad, y sufren menos enfermedades.
+
+###### 4.4.	Abonos orgánicos
+Chilón 1997 citado por UNODC, (2017), define como materia orgánica del suelo a los productos de la descomposición y descomposición de toda fuente primaria y secundaria de la materia orgánica no humificada, formado por la biomasa vegetal y animal, la biomasa microbiana y el humus; constituida a su vez por sustancias no húmicas como materiales orgánicos sencillos, azúcares y aminoácidos; materiales orgánicos de elevado peso molecular; polisacáridos y proteína; también sustancias húmicas estrictas aumenta su tolerancia a la sequía, heladas y salinidad, y sufren menos enfermedades.
+
+###### 4.5.	Arreglos factoriales
+Uno de los objetivos, en la investigación agrícola, es entender adecuadamente la respuesta de los individuos a factores del medio que los rodea.  Estos factores, a la par de los impuestos por el investigador, pueden variar simultáneamente. Es por esta razón que es necesario estudiar la mayoría de los factores que afectan a los experimentos. 
+
+Esto permitirá un estudio adecuado de la respuesta de las plantas y animales no solo a factores individuales sino a la combinación de los mismos.  La investigación simultanea de los efectos de los diferentes factores en estudio puede ser mejor comprendida a través de los experimentos factoriales.
+
+Se entiende por arreglo factorial a aquel en el que se investigan todas las posibles combinaciones de los niveles de los factores en cada ensayo completo. Por ejemplo, si existen a1, a2 niveles del factor A y b1, b2 niveles del factor B, entonces cada réplica del experimento contiene las combinaciones a1b1, a1b2 a2b1 a2b2 que son considerados los tratamientos del experimento.
+
+Los experimentos factoriales se emplean, sobre todo, en investigaciones exploratorias donde se conoce muy poco acerca de los factores que afectan el comportamiento de los individuos en estudio. La información obtenida es más amplia debido a que puede ser obtenida de la respuesta al efecto de los diferentes factores, de los cambios de nivel de los factores y finalmente de la respuesta a la interacción de los factores.
+
+###### 4.6.	Interaccion
+Los experimentos factoriales envuelven un nuevo e importante concepto denominado como interacción. Esta ocurre cuando la respuesta de un factor o una serie de factores es modificada por el cambio en el comportamiento de alguno de los otros factores.
+
+De esta manera, se puede decir que la interacción es la respuesta diferencial de uno o varios factores cuando uno de los factores cambia de nivel.  Por ejemplo, en un experimento para estudiar el efecto de la fertilización nitrogenada en diferentes variedades de quinua, se determinó que algunas variedades responden mejor a la fertilización nitrogenada que otras. Por tanto, se puede decir que existe interacción entre las variedades de quinua y la fertilización.
+
+###### 4.7.	Eleccion de factores
+La selección de factores y niveles de cada factor es una tarea bastante delicada. De este punto depende el éxito o fracaso del experimento.  En la elección se debe tener en cuenta antecedentes y revisión de literatura, específicamente resultados de experimentos similares o bajo condiciones similares.
+Se define como factor a un tipo particular de tratamiento o a una serie de tratamientos relacionados entre si. En general, los factores son seleccionados mediante experimentos exploratorios o de diagnóstico que permite obtener información sobre los factores que son parte o afectan al problema en estudio. Estos factores pueden incluir factores cualitativos y cuantitativos, además de factores manejables y no manejables. Por tanto, se deben seleccionar los factores manejables o que puedan contener niveles.
+
+###### 4.8.	Seleccion de tratamientos
+La selección de los niveles de un factor depende de las características del material experimental que será utilizado para formar las unidades experimentales. Es por esta razón, que el material experimental deberá ser seleccionado y estudiado con anticipación colectando información acerca de las características de este material.
+Para facilitar el análisis estadístico, los niveles de un factor cuantitativo deben estar igualmente espaciados, de manera que el intervalo o distancia entre niveles sea constante.  En especial, cuando se realizan estudios de la respuesta lineal, o curvilínea de los niveles.
+Por otra parte, los niveles pueden estar en escalas logarítmicas. Al respecto, Federer (1955), indica que los niveles pueden ser espaciados de la siguiente manera: k0 unidades, k1 unidades, k2 unidades, k3 unidades, etc. De esta manera, los niveles quedan espaciados en forma equidistante en una escala logarítmica.  Por ejemplo, si k = 4, los niveles serían 0, 3, 9, 27, 81, etc.
+Por su naturaleza los tratamientos pueden ser:
+
+a)	Totalmente cuantitativos: cuando se combinan factores cuantitavos continuos entre si. Por ej.:
+
+	Niveles de Nitrógeno x Niveles de Fósforo. Totalmente cualitativos: Por ej.: 
+	Variedades x Insecticidas
+
+b)	Mixtas. Por ej.:
+
+	Variedades x niveles de Nitrógeno.
+	
+###### 4.9.	Clasificacion de los factores
+Se utiliza para reconocer factores y niveles, así cuando se tiene dos niveles del factor A y dos niveles del factor B se tendrá un factorial de 2 x 2 ó 22.  (Calzada, 1964). Cuando se tiende dos factores con tres niveles cada uno, se denotará como 32 o 3 x 3. En general, se los puede clasificar como:
+
+Serie pura:   $$ 2^k :2^1; 2^2; 2^3; 2^4; etc. $$
+              $$ 3^k :3^1; 3^2; 3^3; 3^4; etc. $$
+               $$ 4^k: 4^1; 4^2; 4^3; 4^4; etc.$$
+Donde el exponente k, representa el número de factores, y el coeficiente 2, 3, 4, etc, representan los niveles 
+c)	Serie mixta: es la combinación de los anteriores entre si:  $$2^k*3*3$$
+
+###### 4.10.	Notacion 
+La notación utilizada en esta sección está basada en la sugerida por Yates (1933) tal como se menciona en Calzada (1964).  Las primeras letras mayúsculas del alfabeto representan factores.  Las letras minúsculas y subíndices numéricos se usan para denotar combinaciones de tratamientos y medias. A menudo, el cero se usa para el primer nivel de un subíndice. 
+
+	  FACTOR    : A, B, C, ... 
+      NIVELES   : a0, a1, a2, ...
+	  FACTOR    : B
+	  NIVELES   : b0, b1, b2, ... 
+      COMBINACIONES: a0b0, a0b1, a1b0, a1b1
+	  OTRA NOTACION: 00, 01, 10, 11
+	  
+Si consideramos un experimento con dos factores y dos niveles se tendrían las siguientes notaciones:
+
+![Tabla 1](C:/Users/ENVY/Downloads/tablaa.png)
+
+Las diferencias a2 - a1 ; y b2 - b1 ; a cada nivel de A, se llaman efectos simples y son útiles en la interpretación final de los resultados.
+
+###### 4.11. Ventajas
+a)	Permite el estudio de efectos principales, efectos de interacción, efectos simples; nunca hay pérdida de información. 
+b)	Cuando todos los factores son independientes en sus efectos, el experimento significa ahorro de tiempo y material.
+c)	Cada efecto principal se estima con la misma precisión que si todo el experimento se hubiera dedicado a ese factor.
+
+###### 4.12. Desventajas
+a)	Con un gran número de combinaciones de tratamientos, la selección de unidades experimentales homogéneas es más difícil.
+
+###### 5.	Descripcion de la base de datos
+Los datos fueron colectados en la gestión 2022 – 2023 en la Estación Experimental de Kallutaca de la Universidad Pública de El Alto, que  se encuentra a una altitud de 3.909 msnm y a 26 km de distancia de la ciudad de La Paz en el municipio de Laja. El objetivo de esta investigación fue evaluar el comportamiento agronómico en tres variedades de Quinua: Jacha grano, Blanquita y Chucapaca con tres niveles de abono orgánico, a razón de: 0 t/ha, 30 t/ha y 60 t/ha. Las parcelas se establecieron en un arreglo factorial completo en un diseño de bloques completos al azar. El modelo Aditivo Lineal, (Montgomery, 2002) fue el siguiente:
+
+$$ Y_(ijk) =\mu+\beta_j+\alpha_i+\gamma_k+ (\alpha\gamma)_(ik)+\varepsilon_(ijk) $$
+Donde:
+
+$$Yijk = Una\ observación\ cualesquiera.$$
+$$\mu= Media\ general\ del\ experimento.$$
+$$\beta_j=Efecto\ del\ j-ésimo\ Bloque $$
+$$\alpha_i=Efecto\ de\ la\ i-ésima\ variedad $$
+$$\gamma_k=Efecto\ del\ k-ésimo\ nivel\ de\ materia\ orgánica $$
+$$(\alpha\gamma)_(ik)= Interacción\ de\ la\ i-ésima\ variedad\ y\ la\ k-ésimo\ nivel\ de\ materia\ organica.$$
+$$\varepsilon_(ijk)= Error\ experimental. $$
+Nivel de significación de 0.05 
+
+Los factores en estudio fueron los siguientes:
+
+Tabla 2
+
+```{r echo=FALSE}
+data.frame("Factor A = Variedades de Quinua" =  c("a1 = Jacha Grano", 
+                                                  "a2 = Blanquita", 
+                                                  "a3 = Chucapaca"),
+           "Factor C = Materia Orgánica" = c("c1 = 0 t/ha", 
+                                             "c2 = 30 t/ha",
+                                             "c3 = 60 t/ha")
+)
+
+
+```
+
+Se utilizaron cuatro bloques en dentro de cada bloque se distribuyeron al azar nueve tratamientos, resultantes de la combinación de niveles de los factores. La unidad experimental tenía una superficie de 33 m2 y el área total del experimento fue de 1363 m2. Se midió la variable de respuesta Rendimiento en ton/ha como variable principal. La cosecha se realizó de cada una de las unidades experimentales.  Al finalizar el  experimento se procedió al pesado de grano limpio que fue expresado en kg/parcela (33 m2), posteriormente se convirtió en tn/ha.
+
+Se tiene la base de datos
+
+Tabla 3
+
+```{r echo=FALSE}
+
+dataOri<- data.frame(
+  stringsAsFactors = FALSE,
+                 B = c("I", "II", "III", "IV"),
+             BLAN0 = c(0.8, 0.7, 1.3, 0.8),
+            CHUCA0 = c(0.8, 1.2, 0.7, 1.2),
+            JACHA0 = c(0.6, 0.9, 0.7, 1.4),
+            BLAN30 = c(2, 2.3, 1.8, 1.4),
+           CHUCA30 = c(2.3, 2.7, 2.4, 2.4),
+           JACHA30 = c(0.8, 1.7, 1.7, 0.8),
+            BLAN60 = c(2, 1.1, 2.2, 1.7),
+           CHUCA60 = c(2.2, 1.8, 1.9, 2.5),
+           JACHA60 = c(1.4, 1.8, 1.3, 1.4)
+          )
+dataOri
+
+
+```
+
+###### 5.1.	Metodo
+
+Preparación del terreno 
+
+La preparación del terreno se realizó con la ayuda de maquinaria agrícola, después de las primeras lluvias de la temporada (septiembre), la preparación del terreno se realizó con el “arado de discos” que está formado por discos cóncavos para abrir surcos profundos;  posteriormente, el mullido de los terrones que se forman producto de la primera actividad, el rastrado y emparejado del terreno se realizó con el implemento llamado “rastra”  para que quede uniforme y esté condicionado para la siembra de Quinua.
+
+Replanteo
+
+Es el proceso de la delimitación de las unidades experimentales según el diseño, el área total de experimento fue 1.363,1 m2 divididos en 4 Bloques, y estos bloques a su vez se dividieron en tres parcelas principales para los niveles de abono orgánico de hoja de Coca molida 0, 30 y 60 t/ha (segundo año de descomposición). Por último, estas parcelas principales fueron divididas en tres sub - parcelas para las diferentes variedades de Quinua.
+
+Siembra 
+
+La siembra se realizó de forma manual y a chorro continuo a una densidad siembra de 6 kg/ha cuando las condiciones climáticas eran favorables, la distancia entre surco fue de 0.5 m, en total se sembraron 36 unidades experimentales.
+
+Evaluaciones
+
+Las evaluaciones se realizaron sobre el comportamiento agronómico del cultivo desde el momento de la emergencia de la planta, y durante todas las fases fenológicas de acuerdo a las variables de respuesta. Posteriormente, se procedió a su respectivo análisis estadístico para dar respuestas a los objetivos planteados.
+
+Cosecha
+
+La cosecha se realizó una vez que las variedades hayan alcanzado la madurez fisiológica, cabe destacar que no todas las variedades tuvieron una maduración homogénea unas fueron un poco más precoces que otras, también se observó que los niveles de materia orgánica con los que fueron evaluados, de cierta manera influyó en los días a los que entraron en madurez fisiológica. La cosecha se realizó de forma manual, con la ayuda de una hoz, gradualmente a medida que cada unidad experimental finalizaba su ciclo fenológico, luego se procedió a formar arcos para que vaya perdiendo humedad y secado. Finalmente, el trillado que también se realizó manualmente. Para el beneficiado de la Quinua, las actividades pos-cosecha se tuvo que volver a exponer al sol durante dos días para reducir la humedad del grano y para que el venteado sea más eficiente, luego se procedió al beneficiado con la ayuda de una máquina de venteadora, la velocidad del viento que emite la maquina se debe regular para cada variedad.
+
+###### 5.2.	Analisis de Datos
+Los datos del experimento fueron procesados con las siguientes fórmulas:
+Las fórmulas y cálculos para el análisis de varianza según Calzada (1964); Montgomery (2002), fueron los siguientes:
+
+FACTOR A: MAT. ORGANICA:  i: 1 ... a = 3   
+
+FACTOR B: BLOQUE:         j: 1 ... b = 4
+
+FACTOR C: VARIEDAD:       k: 1 ... c = 3
+
+a)	Termino Corrector   (TC)
+
+$$TC=\frac{Y_{...}^2}{a*c*r}=\frac{54,6^2}{3*4*3}=82,6$$
+
+b)	Suma de Cuadrados del Total
+
+$$SCT=\sum\sum Y_{ikn}^2-TC=13,07$$
+
+c)	Suma de Cuadrados de Bloques 
+
+$$SC\beta=\frac{\sum Y_{.j.}^2}{a\ast c}-TC=\frac{{13}^2+\ldots+13{,6}^2}{3\ast3}-82,6=0,08$$
+
+d)	Suma de Cuadrados de Materia Orgánica  
+
+$$SC\alpha=\frac{\sum Y_{i..}^2}{b\ast c}-TC=\frac{{11}^2+\ldots+21{,3}^2}{4\ast3}-82,6=6,48$$
+
+e)	Suma de Cuadrados de Variedades 
+
+$$SC\gamma=\frac{\sum Y_{..c}^2}{a\ast b}-TC=\frac{{18,2}^2+\ldots+{14,5}^2}{3\ast4}-82,6=2,23$$
+
+f)	Suma de Cuadrados de Materia Organica por Variedades 
+
+$$SC\left(\alpha\ast\gamma\right)=\frac{\sum Y_{i.k}^2}{b}-TC-SC\alpha-SC\gamma=\frac{{3,6}^2+\ldots+{5,9}^2}{4}-82,6-6,48-2,23=1,28$$
+
+g)	Suma de Cuadrados del Error 
+
+$$SC\varepsilon=SCT-SC\beta-SC\alpha-SC\gamma-SC\left(\alpha\ast\gamma\right)=13,0-0,08-6,48-1,28=2,99$$
+###### 6.	Resultados y Analisis
+
+Los  cálculos de Sumas de Cuadrados para los componentes del Modelo Aditivo Lineal se adecuaron en la siguiente tabla de Análisis de Varianza; (Calzada, 1964),  para la variable de respuesta rendimiento en t/ha de grano de quinua (Chenopodium, quinoa. Will). 
+
+Tabla 4
+
+```{r echo=FALSE}
+
+dataOriginal <- data.frame(
+  stringsAsFactors = FALSE,
+                      B = c("I","I",
+                               "I","I","I","I","I","I","I","II","II",
+                               "II","II","II","II","II","II","II","III",
+                               "III","III","III","III","III","III","III",
+                               "III","IV","IV","IV","IV","IV","IV","IV",
+                               "IV","IV"),
+                        A = c("0","0",
+                               "0","30","30","30","60","60","60","0","0",
+                               "0","30","30","30","60","60","60","0",
+                               "0","0","30","30","30","60","60","60","0",
+                               "0","0","30","30","30","60","60","60"),
+                        C = c( "Blanquita","Chucapaca","J Grano","Blanquita",
+                               "Chucapaca","J Grano","Blanquita","Chucapaca",
+                               "J Grano","Blanquita","Chucapaca","J Grano",
+                               "Blanquita","Chucapaca","J Grano","Blanquita",
+                               "Chucapaca","J Grano","Blanquita","Chucapaca",
+                               "J Grano","Blanquita","Chucapaca","J Grano",
+                               "Blanquita","Chucapaca","J Grano","Blanquita",
+                               "Chucapaca","J Grano","Blanquita","Chucapaca",
+                               "J Grano","Blanquita","Chucapaca","J Grano"),
+                 "Y1"= c("0.8",
+                               "0.8","0.6","2.0","2.3","0.8","2.0","2.2",
+                               "1.4","0.7","1.2","0.9","2.3","2.7","1.7",
+                               "1.1","1.8","1.8","1.3","0.7","0.7","1.8",
+                               "2.4","1.7","2.2","1.9","1.3","0.8","1.2",
+                               "1.4","1.4","2.4","0.8","1.7","2.5","1.4")
+        )
+
+anova1 <- aov(Y1 ~ B+A+C+(A*C),data=dataOriginal)
+summary(anova1)
+
+```
+
+$$CV=\frac{\sqrt{CME}}{\bar{X}}\ast100=\frac{\sqrt{0,12}}{1,5194}\ast100=23.89$$
+
+El rendimiento de grano de quinua, es una de las variables de respuestas más importantes cuando se trata de investigaciones referentes a la incorporación de diferentes niveles de abono orgánico, porque permite evaluar y expresar la factibilidad de la incorporación de estos elementos al suelo de manera que permitan incrementar el rendimiento.
+
+El coeficiente de Variación muestra un valor de 23,89 % y está dentro del rango permitido de 0 a 30 %. Por tanto, se puede asumir que los datos y errores están distribuidos normalmente. Según la Tabla 3, se puede observar que para no existen diferencias estadísticas al 5 % de probabilidad para el factor Bloques y la interacción Materia Orgánica por Variedades de quinua. Sin embargo, se encontraron diferencias significativas para el factor Materia orgánica y el factor Variedades de quinua. Por tanto, para analizar los factores significativos se realizó las pruebas de comparación de medias de Duncan al 5 % de probabilidad.
+
+La prueba de comparación de medias de Duncan al 5 % de probabilidad (Calzada, 1964) para el factor Materia Orgánica, es el siguiente:
+
+![Tabla 5](C:/Users/ENVY/Downloads/1ratabla)
+
+En la Tabla 5, se observa no existen diferencias significativas entre el nivel de 30 t/ha y 60 t/ha con rendimientos de 1,85 kg/ha y 1,77 kg/ha, respectivamente. Por otro lado, los niveles de 30 y 60 t/ha presentan diferencias significativas respecto al nivel de 0 t/ha (testigo) con un rendimiento de 0,92 t/ha.
+
+Según Caballero (2015), la aplicación de materia orgánica (estiércol de Ovino), con niveles de 0, 15, 30 y 60 t/ha lo que representa una adición de 0, 125, 250 y 500 kg/ha, de Nitrógeno; con los cuales obtuvo rendimientos elevados de 1.394, 2.674, 3.428 y 4.172 kg/ha, respectivamente. 
+
+La prueba de comparación de medias de Duncan al 5 % de probabilidad para el factor Variedades de quinua, es el siguiente:
+
+![Tabla 6](C:/Users/ENVY/Downloads/2databla)
+
+En la Tabla 6 se observa que no existe diferencias significativas estadísticamente entre la variedad Jacha Grano y Blanquita con 1,51 y 1,21 tn/ha de rendimiento, respectivamente. Sin embargo, la variedad Chucapaca presenta diferencias significativas respecto a las variedades Blanquita y Jacha Grano con rendimientos de 1,51 y 1,21tn/ha respectivamente.
+Condori (2016), reportó que la variedad Blanquita alcanzó un rendimiento de 1.837,85 kg/ha seguida por Chucapaca con 1.587,77 kg/ha y Jacha Grano con una media de 1.442,17 kg/ha. Por otro lado, Chino (2015), obtuvo un rendimiento de 2000 kg /ha para la variedad Jacha grano. Por su parte, Chambilla (2007), en evaluaciones agronómicas de seis variedades en el altiplano central donde también se usó las variedades Jacha grano y Chucapaca reportaron rendimientos de 503 y 532 kg/ha respectivamente. 
+
+###### 7. Conclusiones y recomendaciones
+
+###### 7.1. Conclusiones
+
+•	Para la variable del rendimiento, no se encontraron diferencias significativas entre los niveles de materia orgánica a2 (30 t/ha), con 1,85 tn/ha y a3 (60 tn/ha) con rendimiento de 1,77 tn/ha de grano. Asimismo, estoy niveles muestran diferencias significativas con el nivel a1 (0 tn/ha) con un rendimiento de 0,92 tn/ha de grano de quinua. Este resultado muestra que la materia orgánica contiene nutrientes importantes, tales como nitrógeno, fósforo, potasio y microelementos, que permiten incrementar el rendimiento de grano de quinua.
+
+•	Respecto a la comparación de medias de Duncan al 5 % de probabilidad, para los niveles del factor variedades de quinua, se encontró que la variedad de quinua Chucapaca mostró un rendimiento de 1,84 tn/ha y diferencias significativas respecto a las variedades Blanquita con rendimiento de 1,51 tn/ha de grano y Jacha grano con un rendimiento de 1,21 tn/ha. Entre estas variedades no se encontraron diferencias significativas. Por tanto, la variedad Chucapaca mostró ser la variedad con mayor rendimiento.
+
+•	No se encontró diferencias significativas para la interacción entre materia orgánica y variedades de quinua, lo cual indica que ambos factores son independientes.
+
+•	El uso del arreglo factorial en un diseño de bloques al azar es fundamental para estudiar el efecto de dos factores, como en el presente trabajo de investigación de la Materia Orgánica y tres variedades de quinua en la Estación Experimental de Kallutaca, La Paz. Este enfoque permite analizar múltiples factores y sus interacciones simultáneamente, proporcionando una comprensión más profunda de cómo diferentes concentraciones de materia orgánica afectan cada variedad de quinua. Además, el diseño de bloques al azar ayuda a controlar la variabilidad natural del terreno donde se realizó el experimento. Se utilizó para controlar la pendiente donde se estableció en ensayo, garantizando que las diferencias observadas en la producción se deban principalmente al tratamiento aplicado y no a variaciones del entorno. Esto es crucial en un estudio agrícola, ya que factores como el tipo de suelo y el microclima pueden influir significativamente en los resultados.
+
+###### 7.2. RECOMENDACIONES
+
+•	Se recomienda a los productores de quinua, utilizar la variedad Chucapaca con 30 tn/ha de materia orgánica para obtener el mayor rendimiento de grano.
+
+•	El uso del arreglo factorial en un diseño de bloques completos al azar para dos factores es crucial porque permite evaluar de manera eficiente y precisa los efectos principales de los factores A y C y también las interacciones entre los factores. Al considerar todas las combinaciones posibles de los niveles de los factores dentro de cada bloque, se obtiene una visión más completa de cómo los factores afectan el resultado del experimento, tanto de manera individual como conjunta, lo cual es esencial para entender las relaciones complejas en un sistema experimental. Además, el uso de bloques completos al azar minimiza la variabilidad no controlada, asegurando que las diferencias observadas se deban principalmente a los factores bajo estudio y no a otras fuentes de variación. Al aleatorizar los tratamientos dentro de cada bloque, se reduce el sesgo y se aumenta la precisión del experimento, lo que resulta en conclusiones más robustas y confiables. Este método es especialmente útil en experimentos agrícolas, industriales y clínicos donde la homogeneidad dentro de los bloques y la evaluación de múltiples factores son críticas para el éxito del estudio.
+
+###### 8.	Bibliografia
+
+
+Alanoca, C; Mamani, A. 2013. Introducción de tres variedades de Quinua en dos comunidades del municipio de Patacamaya Altiplano Central, Revistas Bolivianas. La Paz Bolivia,  7p.  
+
+Apaza, E. 2014. Efecto de la incorporación de tres activadores biológicos en el proceso de compostaje de residuos de hoja de Coca en el centro experimental Kallutaca. La Paz - Bolivia. Universidad Pública de El Alto. 112 p.
+
+Bonifacio, A; Vargas, A; Rojas, J; Choque, E; Monasterios, N. 2007. Variedad de Quinua Blanquita La Paz Bolivia.  4 p.
+
+Bonifacio, A; Vargas, A; Aroni, G. 2003. Variedad Quinua Jacha Grano.  La Paz.  
+
+Borda, A. 2011. Analisis de productividad y componentes del rendimiento de tres variedades de Quinua (Chenopodium quinoa Willd.) en la comunidad callapa altiplano central. La Paz Bolivia. Universidad Mayor de San Andres. 154 p.
+
+Caballero, A; Maceda, W; Miranda, R; Bosque, H. 2015. Rendimiento y contenido de proteina de la Quinua (Chenopodium quinoa Willd) en cinco fases fenológicas, bajo cuatro niveles de incorporación de estiercol. La Paz Bolivia, 118p.
+   
+
+Calzada. Jose. 1964. Métodos Estadísticos para la investigación. Sesator. 494p. , Lima, Peru.
+
+
+Condori, I. 2016. Evaluación de la producción de semilla de cuatro variedades de Quinua (Chenopodium quinoa Willd) con la aplicación de mulch de Coca (Erythroxylum Coca) en la estación experimental de Kallutaca UPEA. La Paz Bolivia. Universidad Pública de El Alto. 133 p.
+
+
+Chambilla, M. 2007. Evaluación agronómica y participativa del comportamiento de seis variedades de Quinua en la comunidad de Salviani del altiplano central. La Paz - Bolivia. Universidad Mayor de San Andres. 122 p.
+
+Chino, E. 2015. Comportamiento agronómico del cultivo de Quinua (Chenopodium quinoa Willd) con la aplicación de niveles de estiercol camelido - altiplano central de Bolivia. La Paz Bolivia. Universidad Mayor de San Andres. 128 p.
+
+
+
+FAO (Organización de las Naciones Unidas para la Agricultura y alimentación, BO). 2011. La quinua: cultivo milenario para contribuir a la seguridad alimentaria mundial. Bolivia. PROINPA. 58 p
+
+Flores, A; Chilquillo, J; Cusiatado, M; Pujaico, G; Alanya, G; Chavez, Y; Sarmiento, R; Risco, A; 2010. Programa modular para el manejo técnico del cultivo de la Quinua. Perú. 
+
+Gómez, L; Aguilar, E. 2016. Guía de cultivo de la Quinua. Ed. UNAL Molina.  Lima - Perú. 121 p. 
+
+
+
+Huanca, R. 2008. Evaluación de diferentes niveles de abono orgánico y riego deficitario sobre el desarrollo y rendimiento de Quinua (Chenopodium quinoa Willd.) en el altiplano central La Paz - Bolivia. Universidad Mayor de San Andres (UMSA). 57-68 p.
+
+IICA. (Instituto Interamericano de Cooperacion para la Agricultura) 2015. Produccion y mercado de la Quinua en Bolivia. In J Risi; W Rojas; m Pacheco. eds. 2015.  p. 80. 
+
+Jaya, E. 2010. Evaluación del potencial nutritivo y nutracéutico de donas elaboradas con una mezcla de harina de Quinua (Chenopodium quinoa Willd.) y harina de trigo (Triticum vulgare) Riobamba - Ecuador. 107 p.
+
+
+LA RAZÓN. 2017. Sube 10% la producción de Quinua y supera los 82.000 tn. La Paz. Disponible en http://www.la-razon.com/economia/Sube-produccion-Quinua-supera-toneladas_0_2714728559.html. Consultado septiembre 2018. 
+
+Leon, J. 2003. Cultivo de la Quinua en Puno Perú: Descripcion, manejo y producción. Puno - Perú. UNA. 62 p.
+
+Maceda, WG. 2015. Efecto de compost y estiércol de ovino en el cultivo de Quinua (Chenopodium quinoa Willd.) Villa Patarani Altiplano CentralL. La paz - Bolivia. Universidad Mayor de San Andres (UMSA). 198 p.
+
+  
+
+Montgomery, D.C. (2002) Diseño y Análisis de Experimentos. Segunda Edición. Limusa Wiley. D.F. Mexico.    
+
+
+Orsag, V; Leon, P; pacosaca, O; Castro, E. 2013. Evaluacion de la fertilidad de los suelos para la produción sostenible de Quinua La Paz 89-112 p. 
+
+PROINPA. 2005. Manejo agronómico de la Quinua orgánica. La Paz - Bolivia.   47p. 
+
+Quino, E. 2000. Comportamiento de dos variedades de Quinua (Chenopodium quinoa Willd.) con abonamiento de humus de de lombriz roja californiana (Eisenia foetida) y su efecto sobre las propiedades fisicas del suelo en el altiplano central. La paz - Bolivia. Universidad Mayor de San Andres (UMSA). 98 p.
+
+
+
+Rodriguez, J. 2005. El papel del tamaño de la semilla de Quinua (Chenopodium quinoa Willd.) en el crecimiento y desarrollo de las plantas frente a diferentes profundidades de siembra. La paz - Bolivia. Universidad Mayor de San Andres (UMSA). 111 p.
+
+
+Rojas, W; Vargas, A; Pinto, M. 2008. La diversidad genética de la Quinua: Potenciales usos en el mejoramiento y agroindustria. La Paz, Bolivia.
+
+Rojas, W; Soto, JL; Pinto, M; Jäger, M; Padulosi (editores). 2010. Granos Andinos. Avances, logros y experiencias desarrolladas en Quinua, cañahua y amaranto en Bolivia. Bioversity International, Roma, Italia.   
+
+
+Soto, J. 2010. Granos andinos In W Rojas; J Soto; M pinto; M Jager; S Palulosi. eds. 2010. Tecnologia de granos andinos Bolivia.  p. 177. 
+
+Silveti, R; Condori, D; Mamani, V. 2012. Evaluación de cuatro especies andinas; papa, quinua, haba y avena: utilizando fertilizantes orgánicos, orina humana tratada y humus ecosan comunidad villa andrani, municipio de el alto. Fundación Sumaj Huasi y Asociación APAINTI. 34 p.
+
+Tapia, E; Fries, A; Marzar, I. 2007. Guia de campo de los cultivos andinos In FAO. ed. 2007. Roma.  p. 24. 
+
+		
+UNSCH. 2012. Manual de nutricion y fertilización de la Quinua Ayacucho - Perú. FUNART.  
+
+Vargas, M. 2013. Congreso científico de la Quinua . La Paz - Bolivia.  p. 682. 
+
+
